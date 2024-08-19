@@ -1,0 +1,15 @@
+c7a24e6a6486e5465853f8cdd8234bef *DESCRIPTION
+8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
+98dda535ad350f9567c4a7ad2de5255f *R/CCSRfind.R
+0b8ff7a471288d9de8852294596a8c22 *R/data_Legend.R
+15d54fcbf7a6daad808629e2d5ec117b *R/data_LegendExtend.R
+d72b4d5e0d4bc778c4e1ca0fab5f18e3 *R/data_dxccsr.R
+fed211decba6047064c70cecb734ea20 *R/disc.R
+09d7f2ef1eb75483a69e896c4273354a *data/DXCCSR.rda
+2aaead6283c3bf3f698dffffd81745fa *data/Legend.rda
+3a5e9878a6187a0daba5ec2be3a43eb3 *data/LegendExtend.rda
+d70a161924d063435514866a5d8779fb *man/CCSRfind.Rd
+22922b1bade41162868a96da91e269c1 *man/DXCCSR.Rd
+1ee5c7d6e3dc10d38f1171eb6b34b7b3 *man/Legend.Rd
+39ea07dfd8924d09710c5392400273d5 *man/LegendExtend.Rd
+ccf17e7a886f725d20bd556c2a03e295 *man/disc.Rd
